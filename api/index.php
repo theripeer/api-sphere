@@ -9,6 +9,9 @@
     <div class="container">
         <h1>AUTH</h1>
         <hr>
+        <section>
+        
+        </section>
     </div>
 </body>
 </html>
