@@ -6,6 +6,9 @@
     <title>DOC API-SPHERE</title>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>AUTH</h1>
+        <hr>
+    </div>
 </body>
 </html>
